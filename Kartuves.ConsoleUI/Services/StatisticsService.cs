@@ -24,10 +24,7 @@ namespace Kartuves.ConsoleUI.Services
         {
             _messageFactory.GeneralStatisticsMessage(_playerManager.GetAll());
         }
-        //public Player Login(string userName)
-        //{
-        //    return _playerManager.GetByUserName(userName);
-        //}
+       
 
     }
 }

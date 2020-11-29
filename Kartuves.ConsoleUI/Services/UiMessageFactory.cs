@@ -22,7 +22,7 @@ namespace Kartuves.ConsoleUI
             Console.WriteLine("Pasirinkite is meniu");
             Console.WriteLine("1. Statistika");
             Console.WriteLine("2. Zaidimas");
-            //bool validChoice = false;
+           
             int choiceNumber = 0;
             while (choiceNumber == 0)
             {
