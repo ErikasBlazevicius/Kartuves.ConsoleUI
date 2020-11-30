@@ -29,7 +29,7 @@ namespace Kartuves.ConsoleUI
                 service.Begin();
             }
 
-
+            
         }
     }
 }
